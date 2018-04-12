@@ -1,4 +1,4 @@
-#! /usr/bin python 3.6.1
+#! /usr/python
 # -*- coding: utf-8 -*-
 
 print("Hello, world!")
